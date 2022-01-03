@@ -5,4 +5,4 @@ The Objective for this website was to build a sports themed site to promote loca
 ###Target End-Users:
 The target audience for this website includes all current and prospective youth athletes and their parents/guardians.
 By accessing this site all interested parties have the ability to stay updated on selected sports, register for participation, and even obtain a current weather forecast.
-This site was built using [GitHub Pages](https://pages.github.com/)
+This site was built using [GitHub Pages](https://pages.github.com/rhbanks779/Mod-1-Web).
